@@ -66,21 +66,10 @@
       <td align="center" width="33%">
         <img src="https://cdn-icons-png.flaticon.com/512/2115/2115025.png" width="80"><br>
         <strong>📚 Biblioteca API</strong><br>
-        <sub>Spring Boot · JPA · MySQL · Git</sub>
+        <sub>Spring Boot · JPA · MySQL · Git · HttpClient</sub>
         <br>API REST con CRUD completo, validaciones y manejo de excepciones.
       </td>
-      <td align="center" width="33%">
-        <img src="https://cdn-icons-png.flaticon.com/512/1632/1632643.png" width="80"><br>
-        <strong>🌿 Fractal en Java</strong><br>
-        <sub>Java · Recursividad · AWT · GitHub</sub>
-        <br>Generación del fractal de Vicsek con lógica recursiva.
-      </td>
-      <td align="center" width="33%">
-        <img src="https://cdn-icons-png.flaticon.com/512/3621/3621685.png" width="80"><br>
-        <strong>💻 CRUD con JS</strong><br>
-        <sub>HTML · CSS · JavaScript · Git</sub>
-        <br>Interfaz interactiva para gestionar datos sin backend.
-      </td>
+
     </tr>
   </table>
 </div>
