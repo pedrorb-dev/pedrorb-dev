@@ -1,16 +1,125 @@
-## Hi there 👋
 
-<!--
-**pedrorb-dev/pedrorb-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center"> Construyendo soluciones robustas, escalables y con propósito</h3>
+
+<br>
+
+## 👨‍💻 Sobre mí
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🎓 Estudiante de <strong>Ingeniería en Sistemas</strong>, apasionado por la arquitectura backend.</li>
+        <li>🔧 Especialista en <strong>Spring Boot</strong> y <strong>PHP</strong>, construyendo APIs REST y aplicaciones web.</li>
+        <li>⚛️ También desarrollo frontend moderno con <strong>React</strong> y aplicaciones móviles con <strong>React Native</strong>.</li>
+        <li>🗄️ Experiencia en bases de datos relacionales: <strong>MySQL</strong> y <strong>SQL Server</strong>.</li>
+        <li>📦 Control de versiones con <strong>Git</strong> y colaboración en proyectos mediante <strong>GitHub</strong>.</li>
+        <li>🎯 Actualmente en búsqueda de <strong>prácticas profesionales</strong> y nuevos desafíos en el ecosistema Java y Spring.</li>
+        <li>📘 Siempre aprendiendo: Spring Security, testing y optimización de rendimiento.</li>
+      </ul>
+    </td>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/924/924915.png" width="180" alt="Developer"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### 🔙 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,php" />
+</p>
+
+### 🎨 Frontend y móvil
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative" />
+</p>
+
+### 🗄️ Bases de datos
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+</p>
+
+### 📦 Control de versiones
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+### ⚙️ Herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea" />
+</p>
+
+---
+
+## 📌 Proyectos destacados
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://cdn-icons-png.flaticon.com/512/2115/2115025.png" width="80"><br>
+        <strong>📚 Biblioteca API</strong><br>
+        <sub>Spring Boot · JPA · MySQL · Git</sub>
+        <br>API REST con CRUD completo, validaciones y manejo de excepciones.
+      </td>
+      <td align="center" width="33%">
+        <img src="https://cdn-icons-png.flaticon.com/512/1632/1632643.png" width="80"><br>
+        <strong>🌿 Fractal en Java</strong><br>
+        <sub>Java · Recursividad · AWT · GitHub</sub>
+        <br>Generación del fractal de Vicsek con lógica recursiva.
+      </td>
+      <td align="center" width="33%">
+        <img src="https://cdn-icons-png.flaticon.com/512/3621/3621685.png" width="80"><br>
+        <strong>💻 CRUD con JS</strong><br>
+        <sub>HTML · CSS · JavaScript · Git</sub>
+        <br>Interfaz interactiva para gestionar datos sin backend.
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrorb-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorb-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrorb-dev&theme=tokyonight&hide_border=true&background=0D1117"/>
+</p>
+
+---
+
+## 📫 Conecta conmigo
+
+<p align="center">
+  <a href="https://github.com/pedrorb-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-pedrorb--dev-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://linkedin.com/in/pedrorb-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-PedroRamírez-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:pedro.ramirez@example.com">
+    <img src="https://img.shields.io/badge/Email-pedro.ramirez%40example.com-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>💡 "El control de versiones no es solo una herramienta, es una mentalidad de colaboración y calidad"</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
