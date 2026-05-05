@@ -98,8 +98,8 @@
   <a href="https://linkedin.com/in/pedrorb-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-PedroRamírez-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:pedro.ramirez@example.com">
-    <img src="https://img.shields.io/badge/Email-pedro.ramirez%40example.com-red?style=for-the-badge&logo=gmail"/>
+  <a href="mailto:pedrulex.ramirez@gmail.com">
+    <img src="https://img.shields.io/badge/Email-pedro.ramirez%40ramirez.com-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
