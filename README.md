@@ -63,7 +63,7 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
+      <td align="center" width="20%">
         <img src="https://cdn-icons-png.flaticon.com/512/2115/2115025.png" width="80"><br>
         <strong>📚 Biblioteca API</strong><br>
         <sub>Spring Boot · JPA · MySQL · Git · HttpClient</sub>
@@ -71,7 +71,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center" width="33%">
+      <td align="center" width="20%">
         <img src="https://cdn-icons-png.flaticon.com/512/2115/2115025.png" width="80"><br>
         <strong>TaskManager</strong><br>
         <sub>Spring Boot · MySQL · Git · React JS</sub>
@@ -81,14 +81,7 @@
   </table>
 </div>
 
----
 
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrorb-dev&theme=tokyonight&hide_border=true&background=0D1117"/>
-</p>
-
----
 
 ## 📫 Conecta conmigo
 
