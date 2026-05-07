@@ -69,19 +69,20 @@
         <sub>Spring Boot · JPA · MySQL · Git · HttpClient</sub>
         <br>API REST con CRUD completo, validaciones y manejo de excepciones.
       </td>
-
+    </tr>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://cdn-icons-png.flaticon.com/512/2115/2115025.png" width="80"><br>
+        <strong>TaskManager</strong><br>
+        <sub>Spring Boot · MySQL · Git · React JS</sub>
+        <br>API REST con CRUD completo, validaciones y manejo de excepciones, hooks, autenticaciones
+      </td>
     </tr>
   </table>
 </div>
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrorb-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrorb-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrorb-dev&theme=tokyonight&hide_border=true&background=0D1117"/>
