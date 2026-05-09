@@ -56,45 +56,16 @@
   <img src="https://skillicons.dev/icons?i=vscode,idea" />
 </p>
 
----
-
-## 📌 Proyectos destacados
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="20%">
-        <img src="https://cdn-icons-png.flaticon.com/512/2115/2115025.png" width="80"><br>
-        <strong>📚 Biblioteca API</strong><br>
-        <sub>Spring Boot · JPA · MySQL · Git · HttpClient</sub>
-        <br>API REST con CRUD completo, validaciones y manejo de excepciones.
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="20%">
-        <img src="https://cdn-icons-png.flaticon.com/512/2115/2115025.png" width="80"><br>
-        <strong>TaskManager</strong><br>
-        <sub>Spring Boot · MySQL · Git · React JS</sub>
-        <br>API REST con CRUD completo, validaciones y manejo de excepciones, hooks, autenticaciones
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
 ## 📫 Conecta conmigo
 
 <p align="center">
   <a href="https://github.com/pedrorb-dev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-pedrorb--dev-black?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://linkedin.com/in/pedrorb-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/pedro-ram%C3%ADrez-b36241325/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-PedroRamírez-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:pedrulex.ramirez@gmail.com">
-    <img src="https://img.shields.io/badge/Email-pedro.ramirez%40ramirez.com-red?style=for-the-badge&logo=gmail"/>
-  </a>
+
 </p>
 
 ---
